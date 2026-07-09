@@ -1,0 +1,134 @@
+{
+  "stage_id": "1013R_R223M_P3_STANDARD_TEMPLATE_AND_CONTROL_POINT_HARDENING",
+  "standard_id": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1",
+  "status": "review_package_manifest",
+  "formal_ui": false,
+  "r97b_modified": false,
+  "runtime_model_prompt_db": false,
+  "formal_apply": false,
+  "file_count": 24,
+  "files": [
+    {
+      "path": "_generate_R223M_P3_outputs.py",
+      "size": 64107,
+      "sha256": "8C39EFCF82200158A1E4C76282A2C108C8622A30A5FAF81D4C722689F4E21B28"
+    },
+    {
+      "path": "_SOURCE_EXTRACT_上交教案.txt",
+      "size": 7771,
+      "sha256": "F59DCB2387B6B73AA2C62FD5B08CFCE9F685919F6F16D3C6A0EFB479A9DDC5B2"
+    },
+    {
+      "path": "_SOURCE_R223M_P1_source_anchor_table.md",
+      "size": 4012,
+      "sha256": "EED76AE9D8A5D0525AD0C7A491287A89C2CA836AA548E9EE940E92D129C5CDCC"
+    },
+    {
+      "path": "_SOURCE_R223M_P2_classroom_event_expansion_matrix.json",
+      "size": 14914,
+      "sha256": "4A207AF3CC674233A55513272BA6A0F58DF3AA1084C1C5865FC770B6940FF180"
+    },
+    {
+      "path": "_SOURCE_R223M_P2_student_response_prediction_matrix.md",
+      "size": 2709,
+      "sha256": "DAB9B3FF7BFC4E8F3D55F9CBCEE6CCC864A79B35AF1453AB825AA589587C959B"
+    },
+    {
+      "path": "_SOURCE_R223M_P2_teacher_readable_process_v3.md",
+      "size": 12083,
+      "sha256": "AC61BC14535E9744FA7E0AF709EEC29AC3A13783F3481A39CD95753975EC15B3"
+    },
+    {
+      "path": "R223M_P3_before_after_compare_with_P2.md",
+      "size": 874,
+      "sha256": "1294142FE53C51E86FB4515F0D2CCEDAC747F4F1EADB8CB6E68137EEA0D64BBD"
+    },
+    {
+      "path": "R223M_P3_classroom_event_expansion_schema_v0_1.json",
+      "size": 4246,
+      "sha256": "3451E19B931B5B7E4E4B8B000088A9D6983338967FB69F9C8E3183A9C3B3A3BC"
+    },
+    {
+      "path": "R223M_P3_classroom_event_expansion_template_v0_1.md",
+      "size": 2306,
+      "sha256": "BF0D80B1FB43AF2823F16588B957E3B68E75A5EA7063B9267D45B03280632EE8"
+    },
+    {
+      "path": "R223M_P3_component_trigger_standard.md",
+      "size": 3617,
+      "sha256": "DD5239D5F648BE3872386E9EB8277E566E699741533AAC96DE7FFA651FA1E935"
+    },
+    {
+      "path": "R223M_P3_control_point_rubric.md",
+      "size": 1071,
+      "sha256": "250277B5EF6E7A6A0D3808B41B6945A4C104CFD494C3F9E91C38FE45F5F721CC"
+    },
+    {
+      "path": "R223M_P3_gold_classroom_event_chain.json",
+      "size": 42414,
+      "sha256": "3BE92EBD09A57692E202BD0D0120683AE1023A4E67EF98961F2B15F3E7E09281"
+    },
+    {
+      "path": "R223M_P3_learning_sheet_and_evidence_standard.md",
+      "size": 2385,
+      "sha256": "F3B5666B2112C0123DDB2964232D24BD0F2B9ABC1ACDDE7F73441D6D32435F8B"
+    },
+    {
+      "path": "R223M_P3_screen_trigger_standard.md",
+      "size": 1858,
+      "sha256": "02A53ABD9D078F9C5D1DB10EE0050017227F58DD2CEBAC7F1FD34AEAADED9F03"
+    },
+    {
+      "path": "R223M_P3_screenshot_smoke_result.json",
+      "size": 954,
+      "sha256": "A8ECEC5EE4AC3F08B48FFB59061C41141F8308F094A8A95163D1EF4644B0F4C9"
+    },
+    {
+      "path": "R223M_P3_standardization_report.md",
+      "size": 1559,
+      "sha256": "36F9E91385D12F2708E3F33AFCAB99E526C63D06EF3ED5B4E96534C94D47F81B"
+    },
+    {
+      "path": "R223M_P3_teacher_readable_process_v4.html",
+      "size": 16956,
+      "sha256": "AFFC9764DF4A2E71825D8E5A148258563CD5A3626F2A03DF89B134F7DBFBECCA"
+    },
+    {
+      "path": "R223M_P3_teacher_readable_process_v4.md",
+      "size": 12031,
+      "sha256": "634280827FCB757630C7D6AE0BFEE5B836A2915C5D4308589DE99298EA7848D1"
+    },
+    {
+      "path": "R223M_P3_teacher_readable_process_v4_screenshot.png",
+      "size": 91976,
+      "sha256": "8A9062C5E9EB724B5E42F530E0E26B797E6FACEEFF4A8D22FF2DC0507A998D35"
+    },
+    {
+      "path": "R223M_P3_transition_chain_notes.md",
+      "size": 1834,
+      "sha256": "A27C67D04088755C27CD6ED4CE078282C24EE3496C3B7AF5BB6FAC73C38FE979"
+    },
+    {
+      "path": "README.md",
+      "size": 450,
+      "sha256": "B791EAE7B4FE6A9C779D6FCF923B233FF94263B487CB9E80B9D98808B1B55B4B"
+    },
+    {
+      "path": "README_FOR_GPT_REVIEW.md",
+      "size": 807,
+      "sha256": "44D7788D69F8C81FD34D727187B73A026942FAFDD1B664BD9B5385B33BADD280"
+    },
+    {
+      "path": "validate_1013R_R223M_P3_standard_template_control_point_hardening.py",
+      "size": 10017,
+      "sha256": "A560D4EC0A552C224F7DDC421B7DAB5AC56CB9A836174A21DE4AFE5672C5CD63"
+    },
+    {
+      "path": "validate_1013R_R223M_P3_standard_template_control_point_hardening_result.json",
+      "size": 286,
+      "sha256": "7C911D464DE888EDB3906D04BC88A849917F8F347F6BDE0388C430462841D19B"
+    }
+  ],
+  "main_entry": "R223M_P3_teacher_readable_process_v4.html",
+  "validator_result": "validate_1013R_R223M_P3_standard_template_control_point_hardening_result.json"
+}
