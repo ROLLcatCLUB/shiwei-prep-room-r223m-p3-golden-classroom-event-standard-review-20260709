@@ -1,0 +1,123 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shiwei.local/schemas/classroom_event_expansion_v0_1.json",
+  "title": "Classroom Event Expansion Schema v0.1",
+  "type": "object",
+  "required": [
+    "stage_id",
+    "standard_id",
+    "events",
+    "boundary"
+  ],
+  "properties": {
+    "stage_id": {
+      "const": "1013R_R223M_P3_STANDARD_TEMPLATE_AND_CONTROL_POINT_HARDENING"
+    },
+    "standard_id": {
+      "const": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1"
+    },
+    "formal_ui": {
+      "const": false
+    },
+    "events": {
+      "type": "array",
+      "minItems": 7,
+      "items": {
+        "type": "object",
+        "required": [
+          "event_id",
+          "event_name",
+          "section",
+          "source_anchor",
+          "teaching_responsibility",
+          "student_problem",
+          "task_release",
+          "expected_student_responses",
+          "likely_misconceptions_or_failures",
+          "teacher_follow_up_questions",
+          "teacher_scaffolding_moves",
+          "teacher_rescue_strategy",
+          "screen_trigger",
+          "component_trigger",
+          "learning_sheet_trigger",
+          "evidence_trigger",
+          "assessment_alignment",
+          "transition_chain",
+          "teacher_visible_note",
+          "control_points"
+        ],
+        "properties": {
+          "event_id": {
+            "description": "Required classroom event field: event_id"
+          },
+          "event_name": {
+            "description": "Required classroom event field: event_name"
+          },
+          "section": {
+            "description": "Required classroom event field: section"
+          },
+          "source_anchor": {
+            "description": "Required classroom event field: source_anchor"
+          },
+          "teaching_responsibility": {
+            "description": "Required classroom event field: teaching_responsibility"
+          },
+          "student_problem": {
+            "description": "Required classroom event field: student_problem"
+          },
+          "task_release": {
+            "description": "Required classroom event field: task_release"
+          },
+          "expected_student_responses": {
+            "description": "Required classroom event field: expected_student_responses"
+          },
+          "likely_misconceptions_or_failures": {
+            "description": "Required classroom event field: likely_misconceptions_or_failures"
+          },
+          "teacher_follow_up_questions": {
+            "description": "Required classroom event field: teacher_follow_up_questions"
+          },
+          "teacher_scaffolding_moves": {
+            "description": "Required classroom event field: teacher_scaffolding_moves"
+          },
+          "teacher_rescue_strategy": {
+            "description": "Required classroom event field: teacher_rescue_strategy"
+          },
+          "screen_trigger": {
+            "description": "Required classroom event field: screen_trigger"
+          },
+          "component_trigger": {
+            "description": "Required classroom event field: component_trigger"
+          },
+          "learning_sheet_trigger": {
+            "description": "Required classroom event field: learning_sheet_trigger"
+          },
+          "evidence_trigger": {
+            "description": "Required classroom event field: evidence_trigger"
+          },
+          "assessment_alignment": {
+            "description": "Required classroom event field: assessment_alignment"
+          },
+          "transition_chain": {
+            "description": "Required classroom event field: transition_chain"
+          },
+          "teacher_visible_note": {
+            "description": "Required classroom event field: teacher_visible_note"
+          },
+          "control_points": {
+            "type": "object",
+            "required": [
+              "observe",
+              "ask_when",
+              "rescue_when",
+              "screen_when",
+              "component_when",
+              "evidence_when",
+              "proceed_when"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
