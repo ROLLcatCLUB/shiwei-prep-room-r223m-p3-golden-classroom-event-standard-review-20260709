@@ -1,0 +1,10 @@
+{
+  "stage_id": "1013R_R223M_P3_STANDARD_TEMPLATE_AND_CONTROL_POINT_HARDENING",
+  "standard_id": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1",
+  "passed": true,
+  "check_count": 510,
+  "failed": 0,
+  "failed_checks": [],
+  "event_count": 7,
+  "template_field_count": 19
+}
