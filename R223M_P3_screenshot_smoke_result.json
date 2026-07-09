@@ -1,0 +1,33 @@
+{
+  "cardWall": "false",
+  "clientWidth": 547,
+  "controlNoteCount": 7,
+  "forbiddenSignals": {
+    "chatComposer": false,
+    "componentShelf": false,
+    "formalUiApproved": false
+  },
+  "formalUi": "false",
+  "h1": "《我为文具代言》课堂过程展开标准样板 v4",
+  "h2Count": 4,
+  "h3Count": 7,
+  "hasText": {
+    "componentTrigger": true,
+    "controlPoint": true,
+    "evidence": true,
+    "learningSheet": true,
+    "noFormalUi": true,
+    "screenTrigger": true,
+    "standard": true,
+    "transition": true
+  },
+  "horizontalOverflow": false,
+  "paragraphCount": 47,
+  "purposeCount": 7,
+  "questionMarkInChromeText": false,
+  "scrollWidth": 547,
+  "stage": "1013R_R223M_P3_STANDARD_TEMPLATE_AND_CONTROL_POINT_HARDENING",
+  "standard": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1",
+  "title": "《我为文具代言》课堂过程展开标准样板 v4",
+  "url": "http://127.0.0.1:8901/R223M_P3_teacher_readable_process_v4.html"
+}
